@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**TIG3RSCLAW/TIG3RSCLAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> 
+‎  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ledger&weight=400&size=21&duration=3200&pause=30&color=ff7e5d&center=true&vCenter=true&width=500&lines=''Is+it+still+me+who+makes+you+sweat?...;am+i+who+you+think+about+in+bed?;When+the+lights+are+dim...;and+your+hands+are+shaking.''" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+‎ 
+‎ 
+
+
+    
+GRAPHIC WIP!!
+
+‎</div>
+<div align="center">
+<br>
+
+    
+[pronouns page read bfyi](https://en.pronouns.page/@tigerstriped)    <span>${\textsf{\color{#ffa55d}★}}$</span>⠀⠀
+</div>
+<br>
+<h2 align="center"><span>${\textsf{\color{#ff7e5d}All creds go to @spam-tune !!}}$</span></h2>
+<br>
+
+<div align="center"> 
+
+<h5>
+  
+[my waif <3](https://github.com/spam-tune)⠀⠀⠀[clo clo ilysm](https://github.com/nightstrider)⠀⠀⠀[vampire lesbian !!](https://github.com/spl1tv1sion) </h5>
