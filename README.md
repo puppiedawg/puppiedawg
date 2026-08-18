@@ -1,7 +1,7 @@
 
 <div align="center"> 
 ‎  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ledger&weight=400&size=21&duration=3200&pause=30&color=ff7e5d&center=true&vCenter=true&width=500&lines=''Is+it+still+me+who+makes+you+sweat?...;am+i+who+you+think+about+in+bed?;When+the+lights+are+dim...;and+your+hands+are+shaking.''" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ledger&weight=400&size=21&duration=3200&pause=30&color=fe7b72&center=true&vCenter=true&width=500&lines=''Is+it+still+me+who+makes+you+sweat?...;am+i+who+you+think+about+in+bed?;When+the+lights+are+dim...;and+your+hands+are+shaking.''" alt="Typing SVG" /></a>
 
 
 
@@ -17,10 +17,10 @@ GRAPHIC WIP!!
 <br>
 
     
-[pronouns page read bfyi](https://en.pronouns.page/@tigerstriped)    <span>${\textsf{\color{#ffa55d}★}}$</span>⠀⠀
+[pronouns page read bfyi](https://en.pronouns.page/@tigerstriped)    <span>${\textsf{\color{#ffbb74}★}}$</span>⠀⠀
 </div>
 <br>
-<h2 align="center"><span>${\textsf{\color{#ff7e5d}All creds go to @spam-tune !!}}$</span></h2>
+<h2 align="center"><span>${\textsf{\color{#fe7b72}All creds go to @spam-tune !!}}$</span></h2>
 <br>
 
 <div align="center"> 
