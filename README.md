@@ -17,7 +17,7 @@ GRAPHIC WIP!!
 <br>
 
     
-[pronouns page read bfyi](https://en.pronouns.page/@tigerstriped)    <span>${\textsf{\color{#ffbb74}★}}$</span>⠀⠀
+[P r o n o u n s P](https://en.pronouns.page/@tigerstriped)    <span>${\textsf{\color{#ffbb74}★}}$</span>⠀⠀
 </div>
 <br>
 <h2 align="center"><span>${\textsf{\color{#fe7b72}All creds go to @spam-tune !!}}$</span></h2>
