@@ -28,4 +28,4 @@
 
 <h5>
   
-[The cutest awh <3](https://github.com/spam-tune)⠀⠀⠀[Vampire lesbian](https://github.com/spl1tv1sion) </h5>
+[The cutest boi aw](https://github.com/spam-tune)⠀⠀⠀[Vampire girl kisser AHHH ILY](https://github.com/spl1tv1sion) </h5>
