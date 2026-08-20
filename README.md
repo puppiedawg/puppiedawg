@@ -1,7 +1,7 @@
 
 <div align="center"> 
 ‎  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ledger&weight=400&size=21&duration=3200&pause=30&color=fe7b72&center=true&vCenter=true&width=500&lines=''Is+it+still+me+who+makes+you+sweat?...;am+i+who+you+think+about+in+bed?;When+the+lights+are+dim...;and+your+hands+are+shaking.''" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ledger&weight=400&size=21&duration=3200&pause=30&color=fe7b72&center=true&vCenter=true&width=500&lines=''Take+me+away+(take+me+away)...;A+secret+place+(a+secret+place);A+sweet+escape+(a+sweet+escape)...;Take+me+away!!''" alt="Typing SVG" /></a>
 
 
 
