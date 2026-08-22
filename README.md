@@ -55,5 +55,7 @@ $\color{#a9baeb}{\text{and int}}$
   
   <div align=“center”>
 
+[Ata](https://tig3rsclaw.atabook.org/)    <span>${\textsf{\color{#a9baeb}♡}}$</span>
 [Pronouns](https://en.pronouns.page/@tigerstriped)    <span>${\textsf{\color{#d346de}★}}$</span>
 <img width="20" height="20" alt="ceedd7ce" src="https://github.com/user-attachments/assets/2bf12671-e9f0-46da-ab05-cbef151885b8" />
+
