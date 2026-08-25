@@ -10,7 +10,8 @@
 
 
 <div align="center">
-<img width="334" height="475" alt="image" src="https://github.com/user-attachments/assets/493c7021-11d6-4bc8-9ef5-12a8560c23c4" />
+<img width="194" height="365" alt="image" src="https://github.com/user-attachments/assets/5949d36c-dfd0-4ae6-9b97-9f69977c3017" />
+
 
 
 
@@ -20,7 +21,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1999&color=cc337b&center=true&width=435&lines=welcome+to+my+gitHub+<3)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TIG3RSCLAW&label=stalkers&color=0fb7f0" alt="TIG3RSCLAW" />
+  <img src="https://komarev.com/ghpvc/?username=TIG3RSCLAW&label=stalkers&color=0fb7f0" alt="puppiedawg" />
 </p>
 
 <div align="center">
