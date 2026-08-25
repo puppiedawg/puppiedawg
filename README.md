@@ -18,7 +18,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1999&color=cc337b&center=true&width=435&lines=welcome+to+my+gitHub+<3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1999&color=cc337b&center=true&width=435&lines=welcome+to+my+profile+<3)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TIG3RSCLAW&label=stalkers&color=0fb7f0" alt="puppiedawg" />
