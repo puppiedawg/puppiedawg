@@ -71,7 +71,8 @@ $\color{#5944d7}{\text{and int}}$
 <img width="20" height="20" alt="f4d39e7d" src="https://github.com/user-attachments/assets/e441c88d-336d-494e-b882-783e5578b929" />
 
 <div align=“center”>
-    
+
+[Gunslol](https://guns.lol/tigerstriped)    <span>${\textsf{\color{#d2fffe}𐂯}}$</span>  
 [Ata](https://tig3rsclaw.atabook.org/)    <span>${\textsf{\color{#d2fffe}♡}}$</span>
 [Pronouns](https://en.pronouns.page/@tigerstriped)    <span>${\textsf{\color{#d2fffe}★}}$</span>
 <img width="20" height="20" alt="ceedd7ce" src="https://github.com/user-attachments/assets/2bf12671-e9f0-46da-ab05-cbef151885b8" />
