@@ -10,15 +10,16 @@
 
 
 <div align="center">
-<img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/cde96e82-5cda-40d7-8d23-ab4bb8b8552c" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/5e7ba6c6-5730-419f-af4b-514ee8949b8e" />
 
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1999&color=d2fffe&center=true&width=435&lines=Sweet+dreams+!!+<3)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1999&color=cc337b&center=true&width=435&lines=welcome+to+my+gitHub+<3)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TIG3RSCLAW&label=shooting+stars&color=9efffd" alt="TIG3RSCLAW" />
+  <img src="https://komarev.com/ghpvc/?username=TIG3RSCLAW&label=stalkers&color=0fb7f0" alt="TIG3RSCLAW" />
 </p>
 
 <div align="center">
@@ -29,28 +30,28 @@
 
 
   
-$\color{#5944d7}{\text{read pronouns}}$
-$\color{#9efffd}{\text{page}}$
-$\color{#5944d7}{\text{and sign ata}}$
+$\color{#0fb7f0}{\text{read pronouns}}$
+$\color{#cc337b}{\text{page}}$
+$\color{#0fb7f0}{\text{and sign ata}}$
 
 <div align="center">
 <img width="41" height="28" alt="d6ea07ef" src="https://github.com/user-attachments/assets/c4d4aa59-c26a-4e2a-96d3-e418c8a66181" />
 
 
   
-$\color{#5944d7}{\text{dncopy}}$
-$\color{#9efffd}{\text{always}}$
-$\color{#5944d7}{\text{ask for}}$
-$\color{#9efffd}{\text{inspo}}$
+$\color{#0fb7f0}{\text{dncopy}}$
+$\color{#cc337b}{\text{always}}$
+$\color{#0fb7f0}{\text{ask for}}$
+$\color{#cc337b}{\text{inspo}}$
 
 <div align="center">
 <img width="150" height="30" alt="ee197822" src="https://github.com/user-attachments/assets/1063bb8a-7f31-4825-9153-5d637170b0d8" />
 
 <div align="center">
   
-$\color{#5944d7}{\text{c+h freely}}$
-$\color{#9efffd}{\text{and int unless}}$
-$\color{#5944d7}{\text{stated otherwise}}$
+$\color{#0fb7f0}{\text{c+h freely}}$
+$\color{#cc337b}{\text{and int unless}}$
+$\color{#0fb7f0}{\text{stated otherwise}}$
 
 <div align="center">
 <img width="138" height="16" alt="b0f93098" src="https://github.com/user-attachments/assets/b3b18228-da0e-48a3-9d26-b63f98b93aab" />
@@ -72,8 +73,9 @@ $\color{#5944d7}{\text{stated otherwise}}$
 
 <div align=“center”>
 
-[gunslol](https://guns.lol/tigerstriped)    <span>${\textsf{\color{#d2fffe}𐂯}}$</span>  
-[ata](https://tig3rsclaw.atabook.org/)    <span>${\textsf{\color{#d2fffe}♡}}$</span>
-[pronouns](https://en.pronouns.page/@tigerstriped)    <span>${\textsf{\color{#d2fffe}★}}$</span>
+[gunslol](https://guns.lol/tigerstriped)    <span>${\textsf{\color{#0fb7f0}𐂯}}$</span>  
+[ata](https://tig3rsclaw.atabook.org/)    <span>${\textsf{\color{#cc337b}♡}}$</span>
+[pronouns](https://en.pronouns.page/@tigerstriped)    <span>${\textsf{\color{#0fb7f0}★}}$</span>
+[strawpage](https://berrypup.straw.page/)    <span>${\textsf{\color{#cc337b}✦}}$</span> 
 <img width="20" height="20" alt="ceedd7ce" src="https://github.com/user-attachments/assets/2bf12671-e9f0-46da-ab05-cbef151885b8" />
 
