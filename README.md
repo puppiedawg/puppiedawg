@@ -75,9 +75,9 @@ $\color{#0fb7f0}{\text{stated otherwise}}$
 
 <div align=“center”>
 
-[gunslol](https://guns.lol/tigerstriped)    <span>${\textsf{\color{#0fb7f0}𐂯}}$</span>  
-[ata](https://tig3rsclaw.atabook.org/)    <span>${\textsf{\color{#cc337b}♡}}$</span>
-[pronouns](https://en.pronouns.page/@tigerstriped)    <span>${\textsf{\color{#0fb7f0}★}}$</span>
+[gunslol](https://guns.lol/puppiedawg)    <span>${\textsf{\color{#0fb7f0}𐂯}}$</span>  
+[ata](https://razorpup.atabook.org/)    <span>${\textsf{\color{#cc337b}♡}}$</span>
+[pronouns](https://en.pronouns.page/@pillowpup)    <span>${\textsf{\color{#0fb7f0}★}}$</span>
 [strawpage](https://berrypup.straw.page/)    <span>${\textsf{\color{#cc337b}✦}}$</span> 
 <img width="20" height="20" alt="ceedd7ce" src="https://github.com/user-attachments/assets/2bf12671-e9f0-46da-ab05-cbef151885b8" />
 
