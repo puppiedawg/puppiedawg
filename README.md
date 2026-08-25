@@ -18,7 +18,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1999&color=d2fffe&center=true&width=435&lines=Sweet+dreams+!!+<3)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TIG3RSCLAW&label=Kewl+people&color=9efffd" alt="TIG3RSCLAW" />
+  <img src="https://komarev.com/ghpvc/?username=TIG3RSCLAW&label=shooting+stars&color=9efffd" alt="TIG3RSCLAW" />
 </p>
 
 <div align="center">
@@ -29,28 +29,28 @@
 
 
   
-$\color{#5944d7}{\text{Read}}$
-$\color{#9efffd}{\text{Pronouns}}$
-$\color{#5944d7}{\text{Page}}$
+$\color{#5944d7}{\text{read pronouns}}$
+$\color{#9efffd}{\text{page}}$
+$\color{#5944d7}{\text{and sign ata}}$
 
 <div align="center">
 <img width="41" height="28" alt="d6ea07ef" src="https://github.com/user-attachments/assets/c4d4aa59-c26a-4e2a-96d3-e418c8a66181" />
 
 
   
-$\color{#5944d7}{\text{Dnc}}$
-$\color{#9efffd}{\text{ask 4}}$
-$\color{#5944d7}{\text{inspo}}$
-$\color{#9efffd}{\text{or i'll block}}$
+$\color{#5944d7}{\text{dncopy}}$
+$\color{#9efffd}{\text{always}}$
+$\color{#5944d7}{\text{ask for}}$
+$\color{#9efffd}{\text{inspo}}$
 
 <div align="center">
 <img width="150" height="30" alt="ee197822" src="https://github.com/user-attachments/assets/1063bb8a-7f31-4825-9153-5d637170b0d8" />
 
 <div align="center">
   
-$\color{#5944d7}{\text{Always}}$
-$\color{#9efffd}{\text{c+h freely}}$
-$\color{#5944d7}{\text{and int}}$
+$\color{#5944d7}{\text{c+h freely}}$
+$\color{#9efffd}{\text{and int unless}}$
+$\color{#5944d7}{\text{stated otherwise}}$
 
 <div align="center">
 <img width="138" height="16" alt="b0f93098" src="https://github.com/user-attachments/assets/b3b18228-da0e-48a3-9d26-b63f98b93aab" />
@@ -72,8 +72,8 @@ $\color{#5944d7}{\text{and int}}$
 
 <div align=“center”>
 
-[Gunslol](https://guns.lol/tigerstriped)    <span>${\textsf{\color{#d2fffe}𐂯}}$</span>  
-[Ata](https://tig3rsclaw.atabook.org/)    <span>${\textsf{\color{#d2fffe}♡}}$</span>
-[Pronouns](https://en.pronouns.page/@tigerstriped)    <span>${\textsf{\color{#d2fffe}★}}$</span>
+[gunslol](https://guns.lol/tigerstriped)    <span>${\textsf{\color{#d2fffe}𐂯}}$</span>  
+[ata](https://tig3rsclaw.atabook.org/)    <span>${\textsf{\color{#d2fffe}♡}}$</span>
+[pronouns](https://en.pronouns.page/@tigerstriped)    <span>${\textsf{\color{#d2fffe}★}}$</span>
 <img width="20" height="20" alt="ceedd7ce" src="https://github.com/user-attachments/assets/2bf12671-e9f0-46da-ab05-cbef151885b8" />
 
