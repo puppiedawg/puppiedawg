@@ -10,7 +10,9 @@
 
 
 <div align="center">
-<img width="194" height="365" alt="image" src="https://github.com/user-attachments/assets/5949d36c-dfd0-4ae6-9b97-9f69977c3017" />
+<img width="235" height="237" alt="image" src="https://github.com/user-attachments/assets/fb52a648-ed70-4711-a418-b00c414163ee" />
+
+
 
 
 
@@ -32,28 +34,28 @@
 
 
   
-$\color{#0fb7f0}{\text{read pronouns}}$
-$\color{#cc337b}{\text{page}}$
-$\color{#0fb7f0}{\text{and sign ata}}$
+$\color{#e20606}{\text{read pronouns}}$
+$\color{#e25706}{\text{page}}$
+$\color{#e7b609}{\text{and sign ata}}$
 
 <div align="center">
 <img width="41" height="28" alt="d6ea07ef" src="https://github.com/user-attachments/assets/c4d4aa59-c26a-4e2a-96d3-e418c8a66181" />
 
 
   
-$\color{#0fb7f0}{\text{dncopy}}$
-$\color{#cc337b}{\text{always}}$
-$\color{#0fb7f0}{\text{ask for}}$
-$\color{#cc337b}{\text{inspo}}$
+$\color{#80bf00}{\text{dncopy}}$
+$\color{#00a3bf}{\text{always}}$
+$\color{#ab00bf}{\text{ask for}}$
+$\color{#ec0a98}{\text{inspo}}$
 
 <div align="center">
 <img width="150" height="30" alt="ee197822" src="https://github.com/user-attachments/assets/1063bb8a-7f31-4825-9153-5d637170b0d8" />
 
 <div align="center">
   
-$\color{#0fb7f0}{\text{c+h freely}}$
-$\color{#cc337b}{\text{and int unless}}$
-$\color{#0fb7f0}{\text{stated otherwise}}$
+$\color{#e20606}{\text{c+h freely}}$
+$\color{#e25706}{\text{and int unless}}$
+$\color{#e7b609}{\text{stated otherwise}}$
 
 <div align="center">
 <img width="138" height="16" alt="b0f93098" src="https://github.com/user-attachments/assets/b3b18228-da0e-48a3-9d26-b63f98b93aab" />
@@ -75,9 +77,9 @@ $\color{#0fb7f0}{\text{stated otherwise}}$
 
 <div align=“center”>
 
-[gunslol](https://guns.lol/puppiedawg)    <span>${\textsf{\color{#0fb7f0}𐂯}}$</span>  
-[ata](https://razorpup.atabook.org/)    <span>${\textsf{\color{#cc337b}♡}}$</span>
-[pronouns](https://en.pronouns.page/@pillowpup)    <span>${\textsf{\color{#0fb7f0}★}}$</span>
-[strawpage](https://berrypup.straw.page/)    <span>${\textsf{\color{#cc337b}✦}}$</span> 
+[gunslol](https://guns.lol/puppiedawg)    <span>${\textsf{\color{#80bf00}𐂯}}$</span>  
+[ata](https://razorpup.atabook.org/)    <span>${\textsf{\color{#00a3bf}♡}}$</span>
+[pronouns](https://en.pronouns.page/@pillowpup)    <span>${\textsf{\color{#ab00bf}★}}$</span>
+[strawpage](https://berrypup.straw.page/)    <span>${\textsf{\color{#ec0a98}✦}}$</span> 
 <img width="20" height="20" alt="ceedd7ce" src="https://github.com/user-attachments/assets/2bf12671-e9f0-46da-ab05-cbef151885b8" />
 
