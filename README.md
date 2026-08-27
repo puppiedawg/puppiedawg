@@ -7,15 +7,8 @@
 
 <p align="center">
 
-
-
-<div align="center">
-<img width="200" height="173" alt="image" src="https://github.com/user-attachments/assets/7e3d48df-90ae-4be6-aacf-cebfc7e96101" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1999&color=ec0a98&center=true&width=435&lines=welcome+to+my+profile+<3)](https://git.io/typing-svg)
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TIG3RSCLAW&label=stalkers&color=00a3bf" alt="puppiedawg" />
+  <img src="https://komarev.com/ghpvc/?username=TIG3RSCLAW&label=⠀⠀(˶˃𐃷˂˶)⠀⠀&color=00a3bf" alt="puppiedawg" />
 </p>
 
 <div align="center">
@@ -29,12 +22,6 @@
 $\color{#e20606}{\text{read pronouns}}$
 $\color{#e25706}{\text{page}}$
 $\color{#e7b609}{\text{and sign ata}}$
-
-<div align="center">
-<img width="20" height="20" alt="f034f111" src="https://github.com/user-attachments/assets/8347db50-3068-49c9-9678-ce82fb890d31" />
-
-
-
   
 $\color{#80bf00}{\text{dncopy}}$
 $\color{#00a3bf}{\text{always}}$
@@ -50,13 +37,6 @@ $\color{#ec0a98}{\text{inspo}}$
 $\color{#e20606}{\text{c+h freely}}$
 $\color{#e25706}{\text{and int unless}}$
 $\color{#e7b609}{\text{stated otherwise}}$
-
-<div align="center">
-<img width="138" height="16" alt="b0f93098" src="https://github.com/user-attachments/assets/b3b18228-da0e-48a3-9d26-b63f98b93aab" />
-  
-<p align="center">
-
-<img width="230" height="30" alt="ba111b62" src="https://github.com/user-attachments/assets/6498b4ed-76ff-42c4-8336-aedfcbe67e03" />
 
 <div align="center">
 
