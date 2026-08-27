@@ -50,9 +50,8 @@ $\color{#e7b609}{\text{stated otherwise}}$
 
 <div align=“center”>
 
-[gunslol](https://guns.lol/puppiedawg)    <span>${\textsf{\color{#80bf00}𐂯}}$</span>  
-[ata](https://razorpup.atabook.org/)    <span>${\textsf{\color{#00a3bf}♡}}$</span>
-[pronouns](https://en.pronouns.page/@pillowpup)    <span>${\textsf{\color{#ab00bf}★}}$</span>
-[strawpage](https://berrypup.straw.page/)    <span>${\textsf{\color{#ec0a98}✦}}$</span> 
-<img width="20" height="20" alt="ceedd7ce" src="https://github.com/user-attachments/assets/2bf12671-e9f0-46da-ab05-cbef151885b8" />
+[gunslol](https://guns.lol/puppiedawg)    <span>${\textsf{\color{#80bf00}𐂯}}$</span>  [ata](https://razorpup.atabook.org/)    <span>${\textsf{\color{#00a3bf}♡}}$</span>
 
+ <div align=“center”>
+
+[pronouns](https://en.pronouns.page/@pillowpup)    <span>${\textsf{\color{#ab00bf}★}}$</span> [strawpage](https://berrypup.straw.page/)    <span>${\textsf{\color{#ec0a98}✦}}$</span> 
