@@ -10,45 +10,15 @@
 
 <div align="center">
 
-
-
-
-
-
-  
-$\color{#e20606}{\text{read pronouns}}$
-$\color{#e25706}{\text{page}}$
-$\color{#e7b609}{\text{and sign ata}}$
-  
-$\color{#80bf00}{\text{dncopy}}$
-$\color{#00a3bf}{\text{always}}$
-$\color{#ab00bf}{\text{ask for}}$
-$\color{#ec0a98}{\text{inspo}}$
-
-
-
-<div align="center">
- 
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rzet10iunecv0h8dphj7fxtml&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
-
-<div align="center">
-
-<img width="99" height="56" alt="8e6a4470" src="https://github.com/user-attachments/assets/0c376074-eec2-48da-a38d-d2fe70373ea7" />
-<img width="99" height="56" alt="b58bd225" src="https://github.com/user-attachments/assets/b8da85ba-c06b-4d9d-a362-9de07bddeda8" />
-
-
-  <div align=“center”>
-<img width="20" height="20" alt="f24e0b86" src="https://github.com/user-attachments/assets/37a229b2-dc41-4b3c-93d8-83de4bdccf46" />
-<img width="20" height="20" alt="f4d39e7d" src="https://github.com/user-attachments/assets/e441c88d-336d-494e-b882-783e5578b929" />
 
 <div align=“center”>
 
-[gunslol](https://guns.lol/puppiedawg)    <span>${\textsf{\color{#80bf00}𐂯}}$</span>  [ata](https://razorpup.atabook.org/)    <span>${\textsf{\color{#00a3bf}♡}}$</span>
+[gunslol](https://guns.lol/puppiedawg)    <span>${\textsf{\color{#80bf00}}}$</span>  [ata](https://razorpup.atabook.org/)    <span>${\textsf{\color{#00a3bf}}}$</span>
 
  <div align=“center”>
 
-[pronouns](https://en.pronouns.page/@pillowpup)    <span>${\textsf{\color{#ab00bf}★}}$</span> [strawpage](https://berrypup.straw.page/)    <span>${\textsf{\color{#ec0a98}✦}}$</span> 
+[pronouns](https://en.pronouns.page/@pillowpup)    <span>${\textsf{\color{#ab00bf}}}$</span> [strawpage](https://berrypup.straw.page/)    <span>${\textsf{\color{#ec0a98}}}$</span> 
 
  <div align=“center”>
    
