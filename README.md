@@ -1,6 +1,3 @@
-<p align="center">
-<img width="230" height="30" alt="ba111b62" src="https://github.com/user-attachments/assets/6498b4ed-76ff-42c4-8336-aedfcbe67e03" />
-
 <div align="center">
 <img width="138" height="16" alt="b0f93098" src="https://github.com/user-attachments/assets/b3b18228-da0e-48a3-9d26-b63f98b93aab" />
 
@@ -28,15 +25,12 @@ $\color{#00a3bf}{\text{always}}$
 $\color{#ab00bf}{\text{ask for}}$
 $\color{#ec0a98}{\text{inspo}}$
 
-<div align="center">
-<img width="20" height="20" alt="c42f6bc2" src="https://github.com/user-attachments/assets/6f90b12a-9cb0-426a-8fbf-919f88912136" />
 
 
 <div align="center">
-  
-$\color{#e20606}{\text{c+h freely}}$
-$\color{#e25706}{\text{and int unless}}$
-$\color{#e7b609}{\text{stated otherwise}}$
+ 
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rzet10iunecv0h8dphj7fxtml&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 <div align="center">
 
