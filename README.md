@@ -18,7 +18,7 @@
 
  <div align=“center”>
 
-[pronouns](https://en.pronouns.page/@pillowpup)    <span>${\textsf{\color{#ab00bf}}}$</span> [strawpage](https://berrypup.straw.page/)    <span>${\textsf{\color{#ec0a98}}}$</span> 
+[pronouns](https://en.pronouns.page/@pillowpup)    <span>${\textsf{\color{#ab00bf}}}$</span>
 
  <div align=“center”>
    
