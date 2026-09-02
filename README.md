@@ -21,9 +21,3 @@
 [pronouns](https://en.pronouns.page/@prreli)    <span>${\textsf{\color{#ab00bf}}}$</span>
 
  <div align=“center”>
-   
-$\color{#e20606}{\text{❛❛ give it your}}$
-$\color{#e25706}{\text{all and}}$
-$\color{#e7b609}{\text{act like}}$
-$\color{#80bf00}{\text{you're the}}$
-$\color{#00a3bf}{\text{brightest star ❞}}$
