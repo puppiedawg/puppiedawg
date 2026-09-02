@@ -14,11 +14,11 @@
 
 <div align=“center”>
 
-[gunslol](https://guns.lol/puppiedawg)    <span>${\textsf{\color{#80bf00}}}$</span>  [ata](https://razorpup.atabook.org/)    <span>${\textsf{\color{#00a3bf}}}$</span>
+[gunslol](https://guns.lol/cewolz)    <span>${\textsf{\color{#80bf00}}}$</span>  [ata](https://prreli.atabook.org/)    <span>${\textsf{\color{#00a3bf}}}$</span>
 
  <div align=“center”>
 
-[pronouns](https://en.pronouns.page/@pillowpup)    <span>${\textsf{\color{#ab00bf}}}$</span>
+[pronouns](https://en.pronouns.page/@prreli)    <span>${\textsf{\color{#ab00bf}}}$</span>
 
  <div align=“center”>
    
